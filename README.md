@@ -15,7 +15,7 @@ Journey was implemented out of a desire to create a beneficial example of an app
 # explore
 App Flow:
 
-![App flow](https://i.ibb.co/Js0VMj8/image.png)
+![App flow](https://i.postimg.cc/8c9fw9Px/image.png)
 
 Adding a new POI:
 
